@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Music-Blog/static/css/main.c3cbecd9.chunk.css",
+    "main.js": "/Music-Blog/static/js/main.3486b32c.chunk.js",
+    "main.js.map": "/Music-Blog/static/js/main.3486b32c.chunk.js.map",
+    "runtime-main.js": "/Music-Blog/static/js/runtime-main.4cdbb063.js",
+    "runtime-main.js.map": "/Music-Blog/static/js/runtime-main.4cdbb063.js.map",
+    "static/js/2.487f7f37.chunk.js": "/Music-Blog/static/js/2.487f7f37.chunk.js",
+    "static/js/2.487f7f37.chunk.js.map": "/Music-Blog/static/js/2.487f7f37.chunk.js.map",
+    "index.html": "/Music-Blog/index.html",
+    "static/css/main.c3cbecd9.chunk.css.map": "/Music-Blog/static/css/main.c3cbecd9.chunk.css.map",
+    "static/js/2.487f7f37.chunk.js.LICENSE.txt": "/Music-Blog/static/js/2.487f7f37.chunk.js.LICENSE.txt",
+    "static/media/art-1.e3ca20f7.png": "/Music-Blog/static/media/art-1.e3ca20f7.png",
+    "static/media/art-2.c79d8421.png": "/Music-Blog/static/media/art-2.c79d8421.png",
+    "static/media/art-3.1c5faaf6.png": "/Music-Blog/static/media/art-3.1c5faaf6.png",
+    "static/media/art-4.b93c31d1.png": "/Music-Blog/static/media/art-4.b93c31d1.png",
+    "static/media/art-5.fc64a4db.png": "/Music-Blog/static/media/art-5.fc64a4db.png",
+    "static/media/art-6.fae26882.png": "/Music-Blog/static/media/art-6.fae26882.png",
+    "static/media/art-7.1b9e250a.png": "/Music-Blog/static/media/art-7.1b9e250a.png",
+    "static/media/art-8.ebf1e5d7.png": "/Music-Blog/static/media/art-8.ebf1e5d7.png",
+    "static/media/index.css": "/Music-Blog/static/media/bg-img.c965b427.png",
+    "static/media/blog-img-1.d47adeb8.png": "/Music-Blog/static/media/blog-img-1.d47adeb8.png",
+    "static/media/blog-img-2.8a2a8008.png": "/Music-Blog/static/media/blog-img-2.8a2a8008.png",
+    "static/media/blog-img-3.dd00f0d6.png": "/Music-Blog/static/media/blog-img-3.dd00f0d6.png",
+    "static/media/blog-img-4.a8804ce2.png": "/Music-Blog/static/media/blog-img-4.a8804ce2.png",
+    "static/media/img-1-tall.0b125e9c.png": "/Music-Blog/static/media/img-1-tall.0b125e9c.png",
+    "static/media/img-1-wide.f58b2ea2.png": "/Music-Blog/static/media/img-1-wide.f58b2ea2.png",
+    "static/media/img-2-tall.41351b17.png": "/Music-Blog/static/media/img-2-tall.41351b17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cdbb063.js",
+    "static/js/2.487f7f37.chunk.js",
+    "static/css/main.c3cbecd9.chunk.css",
+    "static/js/main.3486b32c.chunk.js"
+  ]
+}
