@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap");
+* {
+	padding: 0;
+	margin: 0;
+	font-family: "Dosis", sans-serif;
+}
+
+.index {
+	background-color: #262626;
+}
+
+.home-container {
+	background-image: url("./images/bg-img.png");
+	background-repeat: repeat;
+	background-size: contain;
+	margin-top: -1px;
+}
